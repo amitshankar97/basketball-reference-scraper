@@ -8,7 +8,7 @@ cycler==0.10.0
 idna==2.7
 Jinja2==2.10
 kiwisolver==1.0.1
-lxml==4.2.5
+lxml==4.6.3
 MarkupSafe==1.1.0
 matplotlib==3.0.2
 nbashots==0.1.0a9
